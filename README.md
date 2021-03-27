@@ -6,3 +6,6 @@ Portanto, o objetivo do problema é justamente decidir a localização física d
 
 
 ARENALES, M.; ARMENTANO, V. A.; MORABITO, R.; YANASSE, H. H. Pesquisa Operacional. Rio de Janeiro: Campus/elsevier, 2007. p181.
+
+
+Detalhes da solução estão descritos no arquivo cujo título é: Trabalho de Pesquisa Operacional.pdf
